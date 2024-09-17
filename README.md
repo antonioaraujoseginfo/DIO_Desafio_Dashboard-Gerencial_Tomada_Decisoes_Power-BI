@@ -69,6 +69,6 @@ Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICE
 
 - **Nome:** Antonio Araújo
 - **Email:** antonioaraujolb@gmail.com
-- **LinkedIn:** [seu-perfil-linkedin](https://www.linkedin.com)
+- **LinkedIn:** https://www.linkedin.com/in/antonio-araujo-seginfo/
 
 ---
